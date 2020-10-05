@@ -1,8 +1,8 @@
 {
     "name": "CombinedFilter",
     "references": [
-        "GUID:518b3ca2efd4e7448a3566c129e489f5",
-        "GUID:9c420befefc49b54097cc7beb2d5aacb"
+        "GUID:b8324c900e0618a41998b0f2388eb6cb",
+        "GUID:aaa6519b3bb52b94fbc05d813a2ced02"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
